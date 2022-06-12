@@ -9,7 +9,7 @@
 
 - Ask me about **Metal.**
 
-- Fun fact: **I think of new project ideas multiple times per day.**
+- Fun fact: **I use Arch btw.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
