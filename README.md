@@ -26,7 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xtekc&show_icons=true&locale=en" alt="xtekc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xtekc&" alt="xtekc" /></p>
-
-
-
-![Metrics](https://metrics.lecoq.io/xTeKc?template=classic&isocalendar=1&activity=1&achievements=1&lines=1&base.indepth=false&isocalendar.duration=full-year&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York)
