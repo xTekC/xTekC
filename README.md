@@ -28,9 +28,3 @@
 " target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="xtekc" height="30" width="95" /></a>
 <a href="https://www.leetcode.com/xtekc
 " target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="xtekc" height="30" width="95" /></a>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xtekc&show_icons=true&locale=en" alt="xtekc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xtekc&" alt="xtekc" /></p>
