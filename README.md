@@ -1,8 +1,9 @@
 <h1 align="center">xTeKc</h1>
 
 <p>
-...
+<h2><b>Available for work!</b></h2>
 </p>
+<br>
 
 <h3 align="left">Platforms:</h3>
 
