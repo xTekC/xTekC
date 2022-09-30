@@ -1,7 +1,7 @@
-<h1 align="center">xTeKc</h1>
+<h1 align="center">xTekC</h1>
 
 <p>
-<h2><b>Available for work!</b></h2>
+<h2><b></b></h2>
 </p>
 <br>
 
