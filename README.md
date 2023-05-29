@@ -11,7 +11,7 @@
 <h3 align="left">Architectures:</h3>
 
 ![AMD64](https://img.shields.io/badge/-AMD64-FF0000?style=for-the-badge&logo=AMD64&logoColor=white&textColor=white)
-![RISC-V](https://img.shields.io/badge/RISC__V-2F4F2F?style=for-the-badge&logo=RISC_V&logoColor=green&textColor=white)
+![RISC-V](https://img.shields.io/badge/RISC__V-2F4F2F?style=for-the-badge&logo=RISC-V&logoColor=green&textColor=white)
 ![aarch64](https://img.shields.io/badge/-aarch64-FFA500?style=for-the-badge&logo=ARM&logoColor=white&textColor=white)
 
 <h3 align="left">Languages:</h3>
