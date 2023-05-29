@@ -1,5 +1,5 @@
 <h1 align="center">xTekC</h1>
-<h3 align="center">A low-level systems developer.</h3>
+<h3 align="center">Low-level systems developer.</h3>
 
 - 🌱 I am currently learning **Zig**
 
