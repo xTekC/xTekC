@@ -1,26 +1,25 @@
 <h1 align="center">xTekC</h1>
-<h3 align="center">A low-level systems programmer.</h3>
+<h3 align="center">A low-level systems developer.</h3>
 
 - 🌱 I am currently learning **Zig**
-
-<br>
 
 <h3 align="left">Platforms:</h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-F05032?style=for-the-badge&logo=FreeBSD&logoColor=black)
+
+<h3 align="left">Architectures:</h3>
+
+![AMD64](https://img.shields.io/badge/-AMD64-FF0000?style=for-the-badge&logo=AMD64&logoColor=white&textColor=white)
+![RISC-V](https://img.shields.io/badge/RISC__V-2F4F2F?style=for-the-badge&logo=RISC_V&logoColor=green&textColor=white)
+![aarch64](https://img.shields.io/badge/-aarch64-FFA500?style=for-the-badge&logo=ARM&logoColor=white&textColor=white)
 
 <h3 align="left">Languages:</h3>
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/-Zig-000000?style=for-the-badge&logo=zig&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-!~[Zig](https://raw.githubusercontent.com/xTekC/xTekC/svgs/zig.svg)~
-!~[C](https://raw.githubusercontent.com/xTekC/xTekC/svgs/c.svg)~
-!~[Rust](https://raw.githubusercontent.com/xTekC/xTekC/svgs/rust.svg)~
-!~[Bash](https://raw.githubusercontent.com/xTekC/xTekC/svgs/bash.svg)~
 
 <h3 align="left">Connect:</h3>
 
