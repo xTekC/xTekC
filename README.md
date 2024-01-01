@@ -17,7 +17,7 @@
 ![Zig](https://img.shields.io/badge/-Zig-383838?style=for-the-badge&logo=zig&logoColor=yellow)
 ![C](https://img.shields.io/badge/c-383838.svg?style=for-the-badge&logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/rust-383838.svg?style=for-the-badge&logo=rust&logoColor=orange)
-![Bash](https://img.shields.io/badge/bash-383838.svg?style=for-the-badge&logo=gnu-bash&logoColor=green)
+![Shell](https://img.shields.io/badge/shell-383838.svg?style=for-the-badge&logo=gnu-shell&logoColor=green)
 
 <h3 align="left">Connect:</h3>
 
