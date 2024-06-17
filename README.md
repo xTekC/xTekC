@@ -1,21 +1,21 @@
 <h1 align="center">xTekC</h1>
-<h3 align="center">Low-level systems developer.</h3>
+<h3 align="center">Systems Engineer</h3>
 
 <h3 align="left">Platforms:</h3>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-F05032?style=for-the-badge&logo=FreeBSD&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <h3 align="left">Architectures:</h3>
 
-![RISC-V](https://img.shields.io/badge/RISC__V-2F4F2F?style=for-the-badge&logo=RISC-V&logoColor=green&textColor=white)
-![aarch64](https://img.shields.io/badge/-aarch64-FFA500?style=for-the-badge&logo=ARM&logoColor=white&textColor=white)
+![RISCV64](https://img.shields.io/badge/RISCV64-2F4F2F?style=for-the-badge&logo=RISC-V&logoColor=green&textColor=white)
+![AArch64](https://img.shields.io/badge/-AArch64-FFA500?style=for-the-badge&logo=ARM&logoColor=white&textColor=white)
 ![AMD64](https://img.shields.io/badge/-AMD64-FF0000?style=for-the-badge&logo=AMD64&logoColor=white&textColor=white)
 
 <h3 align="left">Languages:</h3>
 
-![Zig](https://img.shields.io/badge/-Zig-383838?style=for-the-badge&logo=zig&logoColor=yellow)
 ![C](https://img.shields.io/badge/c-383838.svg?style=for-the-badge&logo=c&logoColor=black)
+![Zig](https://img.shields.io/badge/-Zig-383838?style=for-the-badge&logo=zig&logoColor=yellow)
 ![Rust](https://img.shields.io/badge/rust-383838.svg?style=for-the-badge&logo=rust&logoColor=orange)
 ![Shell](https://img.shields.io/badge/shell-383838.svg?style=for-the-badge&logo=gnu-shell&logoColor=green)
 
