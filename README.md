@@ -23,9 +23,9 @@
 
 <a href="https://x.com/xTekC" target="blank"><img align="center" src="https://img.shields.io/badge/x.com-000000?style=for-the-badge&logo=x" alt="xTekC's X.com Account" height="32" width="115" /></a>
 <a href="https://youtube.com/@xTekC" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="XTekC's YouTube Channel" height="30" width="95" /></a>
-<a href="https://www.twitch.tv/xtekc
+<!-- <a href="https://www.twitch.tv/xtekc
 " target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="xTekC's Twitch Account" height="30" width="95" /></a>
 <a href="https://hashnode.com/@xTekC
 " target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="XTekC's Hashnode Account" height="30" width="95" /></a>
 <a href="https://www.leetcode.com/xtekc
-" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="xTekC's Leetcode Account" height="30" width="95" /></a>
+" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="xTekC's Leetcode Account" height="30" width="95" /></a> -->
